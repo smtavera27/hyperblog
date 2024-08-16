@@ -22,6 +22,12 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
 #container
 {
     width: 70%;
@@ -34,15 +40,8 @@ body
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
-#cabecera #logo
-{
-    width: 20px;
-    vertical-align: middle;
-=======
 #footer
 {
     background-color: purple;
     color: white;
->>>>>>> 1e346514b5dc7347d1d449a926c3a7d73612c0b6
 }
